@@ -1,4 +1,5 @@
 # ece4318-se-demo
+author: Bryan Chou
 
 ```mermaid
 sequenceDiagram
