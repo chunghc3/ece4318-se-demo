@@ -1,6 +1,29 @@
 # ece4318-se-demo
 author: Bryan Chou
-test test test333
+demo in class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```mermaid
 sequenceDiagram
